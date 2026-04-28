@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/ritick-portfolio/
+🔗 https://ritick-portfolio.vercel.app
 
 ---
 
