@@ -43,7 +43,7 @@ portfolio/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/ritick-portfolio.git
+git clone https://github.com/RitickPandey/ritick-portfolio.git
 ```
 
 2. Open the folder in VS Code
